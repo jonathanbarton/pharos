@@ -1,0 +1,2 @@
+# pharos
+ibeacon cordova project
